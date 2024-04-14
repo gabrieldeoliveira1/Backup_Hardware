@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\classe_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\classe_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\backup_hardware\\backup2\\backup2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form3.cs",
               "RelativeDocumentMoniker": "Backup2\\Form3.cs",
@@ -79,18 +75,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.cs",
               "RelativeDocumentMoniker": "Backup2\\Form2.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.cs",
-              "RelativeToolTip": "Backup2\\Form2.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Backup2\\Form2.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:25:15.686Z"
+              "WhenOpened": "2024-04-08T13:25:15.686Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form3.cs",
               "RelativeDocumentMoniker": "Backup2\\Form3.cs",
@@ -101,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Conexao.cs",
               "RelativeDocumentMoniker": "Backup2\\Conexao.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Conexao.cs",
               "RelativeToolTip": "Backup2\\Conexao.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAArwD8AAAAMAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAArwD8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:46:05.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form1.cs",
               "RelativeDocumentMoniker": "Backup2\\Form1.cs",
@@ -126,19 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Backup2\\Form2.Designer.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.Designer.cs",
               "RelativeToolTip": "Backup2\\Form2.Designer.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAYwBwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T17:33:05.856Z"
+              "WhenOpened": "2024-04-12T17:33:05.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form4.cs",
               "RelativeDocumentMoniker": "Backup2\\Form4.cs",
@@ -149,39 +147,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form1.cs",
               "RelativeDocumentMoniker": "Backup2\\Form1.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form1.cs",
               "RelativeToolTip": "Backup2\\Form1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAiwDAAAAA1AAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:42:19.519Z"
+              "WhenOpened": "2024-04-08T15:42:19.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.cs",
               "RelativeDocumentMoniker": "Backup2\\Form2.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Form2.cs",
               "RelativeToolTip": "Backup2\\Form2.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAiwHQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:26:26.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Program.cs",
-              "RelativeDocumentMoniker": "Backup2\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Backup_Hardware\\Backup2\\Backup2\\Program.cs",
-              "RelativeToolTip": "Backup2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:43:33.917Z"
+              "WhenOpened": "2024-04-08T13:26:26.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
