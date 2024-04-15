@@ -33,6 +33,8 @@
             panel1 = new Panel();
             button1 = new Button();
             pictureBox1 = new PictureBox();
+            label1 = new Label();
+            label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -73,11 +75,34 @@
             pictureBox1.Image = Properties.Resources.Design_sem_nome__2_;
             pictureBox1.Location = new Point(633, 66);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(597, 398);
+            pictureBox1.Size = new Size(597, 645);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 4;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("SWSimp", 28.2F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(633, 728);
+            label1.Name = "label1";
+            label1.Size = new Size(225, 60);
+            label1.TabIndex = 5;
+            label1.Text = "Preço: ";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.BackColor = Color.Transparent;
+            label2.Font = new Font("SWSimp", 28.2F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.Location = new Point(805, 732);
+            label2.Name = "label2";
+            label2.Size = new Size(175, 60);
+            label2.TabIndex = 6;
+            label2.Text = "label2";
+            label2.Click += label2_Click;
             // 
             // Form4
             // 
@@ -85,6 +110,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1282, 828);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Controls.Add(pictureBox1);
             Controls.Add(button1);
             Controls.Add(panel1);
@@ -96,6 +123,7 @@
             Load += Form4_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -104,5 +132,7 @@
         private Panel panel1;
         private Button button1;
         private PictureBox pictureBox1;
+        private Label label1;
+        private Label label2;
     }
 }

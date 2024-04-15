@@ -20,7 +20,7 @@ namespace Csharp_and_Database
         public MySqlConnection connection = null;
         static private string strcon = "server=" + servidor + ";database=" + bd + ";user id=" + usuario + ";password=" + senha;
 
-
+        
         public MySqlConnection getconexao()
         {
             connection = new MySqlConnection(strcon);

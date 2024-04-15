@@ -1,4 +1,5 @@
 ﻿using Csharp_and_Database;
+using MySql.Data.MySqlClient;
 using MySqlX.XDevAPI;
 using System;
 using System.Collections.Generic;
@@ -22,8 +23,10 @@ namespace Backup2
 
         double preco3;
         double desconto;
+        int cod_prod;
         public Form2(Classe_produto Produto, float tam, int cod)
         {
+            cod_prod = cod;
             this.CP = Produto;
             InitializeComponent();
             pictureBox1.Image = Produto.imagem;
@@ -43,6 +46,10 @@ namespace Backup2
             CP.nome = dados.Rows[0][1].ToString();
             CP.preco = float.Parse(dados.Rows[0][2].ToString());
 
+
+            
+            
+            
 
         }
 
@@ -111,6 +118,7 @@ namespace Backup2
                 MessageBox.Show("Valor total sem desconto: R$" + CP.preco);
             }
 
+            
             Form3 form3 = new Form3(CP);
             form3.ShowDialog();
 
@@ -118,6 +126,13 @@ namespace Backup2
 
         private void button2_Click(object sender, EventArgs e)
         {
+            String sql = $"insert into carrinho (CFK_prod) value({cod_prod});";
+           
+            MySqlConnection conn = cn.getconexao();
+            conn.Open();
+            MySqlCommand cmd = new MySqlCommand(sql, conn);
+            cmd.ExecuteNonQuery();
+            conn.Close();
 
             Form4 form4 = new Form4(CP, label123.Text);
             form4.ShowDialog();

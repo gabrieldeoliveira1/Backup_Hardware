@@ -18,25 +18,27 @@ namespace Backup2
 
         public Form4(Classe_produto Produto, string dados)
         {
-            CP=Produto;
-            
-           
+            CP = Produto;
+
+
             produto = dados;
             InitializeComponent();
+
+            label2.Text = Produto.preco.ToString();
 
         }
 
         public void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
-
+           
 
 
         }
 
         private void Form4_Load(object sender, EventArgs e)
         {
-             pictureBox1.Image= CP.imagem;
+            pictureBox1.Image = CP.imagem;
             comboBox1.Items.Add(produto);
 
         }
@@ -45,11 +47,16 @@ namespace Backup2
         {
             Form1 frm = new Form1();
             this.Hide();
-            frm.ShowDialog(); 
+            frm.ShowDialog();
 
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

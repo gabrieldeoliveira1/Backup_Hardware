@@ -89,11 +89,11 @@
             preco.AutoSize = true;
             preco.BackColor = Color.Transparent;
             preco.FlatStyle = FlatStyle.Flat;
-            preco.Font = new Font("Segoe UI", 36F, FontStyle.Regular, GraphicsUnit.Point);
+            preco.Font = new Font("SWSimp", 36F, FontStyle.Regular, GraphicsUnit.Point);
             preco.ForeColor = Color.White;
-            preco.Location = new Point(1035, 368);
+            preco.Location = new Point(1035, 378);
             preco.Name = "preco";
-            preco.Size = new Size(185, 81);
+            preco.Size = new Size(216, 77);
             preco.TabIndex = 5;
             preco.Text = "preço";
             preco.Click += label1_Click_2;
