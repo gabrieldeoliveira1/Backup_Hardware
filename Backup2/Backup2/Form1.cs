@@ -26,13 +26,15 @@ namespace Backup2
             Connection cn = new Connection();
             Classe_produto cp = new Classe_produto();
             cp.nome = label1.Text;
-            cp.imagem = pictureBox2.Image;
+            cp.imagem = produto;
             dados = cn.obterdados("Select * from produto where Cod_prod = " + 1);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam, 1);
-            form2.ShowDialog();
+           Form2 form2 = new Form2(cp, tam, 1);
+           form2.ShowDialog();
 
+            Form4 form4 = new Form4(cp, label1.Text);
+            form4.ShowDialog();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -57,6 +59,8 @@ namespace Backup2
             Form2 form2 = new Form2(cp, tam, 2);
             form2.ShowDialog();
 
+            Form4 form4 = new Form4(cp, label2.Text);
+            form4.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -75,6 +79,9 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 3);
             form2.ShowDialog();
+
+            Form4 form4 = new Form4(cp, label3.Text);
+            form4.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -82,7 +89,7 @@ namespace Backup2
             DataTable dados; 
             float tam = 17;
             produto = pictureBox5.Image;
-            Classe_produto cp = new Classe_produto();
+            Classe_produto cp = new Classe_produto( );
             cp.nome = label4.Text;
             cp.imagem = pictureBox5.Image;
             Connection cn = new Connection();
@@ -91,6 +98,9 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 4);
             form2.ShowDialog();
+
+            Form4 form4 = new Form4(cp, label4.Text);
+            form4.ShowDialog();
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -107,6 +117,9 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 5);
             form2.ShowDialog();
+
+            Form4 form4 = new Form4(cp, label5.Text);
+            form4.ShowDialog();
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -123,6 +136,8 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 6);
             form2.ShowDialog();
+            Form4 form4 = new Form4(cp, label6.Text);
+            form4.ShowDialog();
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -140,6 +155,9 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 7);
             form2.ShowDialog();
+
+            Form4 form4 = new Form4(cp, label7.Text);
+            form4.ShowDialog();
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -156,6 +174,9 @@ namespace Backup2
 
             Form2 form2 = new Form2(cp, tam, 8);
             form2.ShowDialog();
+
+            Form4 form4 = new Form4(cp, label8.Text);
+            form4.ShowDialog();
         }
 
         private void label1_Click(object sender, EventArgs e)

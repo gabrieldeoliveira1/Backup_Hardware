@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Csharp_and_Database;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,45 @@ namespace Backup2
 {
     public partial class Form4 : Form
     {
-        public Form4()
+        string produto;
+        Classe_produto CP = new Classe_produto(); //Se precisar usar tá ai.
+
+        public Form4(Classe_produto Produto, string dados)
         {
+            CP=Produto;
+            
+           
+            produto = dados;
             InitializeComponent();
+
+        }
+
+        public void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+
+
+
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+             pictureBox1.Image= CP.imagem;
+            comboBox1.Items.Add(produto);
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 frm = new Form1();
+            this.Hide();
+            frm.ShowDialog(); 
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -70,7 +70,7 @@
             pictureBox1.BackColor = Color.FromArgb(182, 205, 209);
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(-2, -1);
+            pictureBox1.Location = new Point(-5, 7);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(1302, 877);
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -417,5 +417,6 @@
         private Button button6;
         private Button button7;
         private Button button8;
+        
     }
 }
